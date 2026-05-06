@@ -1,1 +1,1 @@
-# Serverless-RAG
+# Serverless RAG Project
